@@ -167,3 +167,45 @@ ls
 ls .bashrc 
 emacs .bashrc 
 exit
+ls
+ls
+ls
+ls add .
+git add .
+git commit -m "modify3"
+git push git@github.com:aaronlinux/git.git
+git pull git@github.com:aaronlinux/git.git
+git pull
+ls
+ls -a
+cd .git
+emacs .gitignore 
+ls
+cd 
+ls
+touch .org/a
+mkdir .org
+ls
+emacs .emacs
+git add .
+git commit - "emacs"
+git commit -m "emacs"
+git push
+emacs
+ls
+ls
+emacs
+emacs
+git add .
+git commit -m "emacs 2"
+git push
+ls
+ls
+ls
+ls -a
+emacs .bash_history 
+emacs .git/.gitignore 
+git add .
+git commit -m "a"
+emacs .git/.gitignore 
+git pull
