@@ -1,7 +1,7 @@
 .emacs.d/
-
+*#*
 .gnupg/
-
+*~*
 .ssh/
 
 .bash_history

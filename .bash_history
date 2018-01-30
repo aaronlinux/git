@@ -48,3 +48,27 @@ git add
 git add 。
 git add .
 git commit -m "m"
+git add .
+git commit -m "m"
+git push
+git check-ignore
+git add .
+git commit -m "m"
+git push
+ls
+ls
+git pull
+apt-get install sl
+emacs .bashrc 
+alias apt-get='apt-cyg'
+alias
+alias apt-get='apt-cyg'
+unalias
+unalias apt-cyg
+alias
+apt-get install sl
+git add .
+git commit -m "m"
+git push
+git pull
+alias
