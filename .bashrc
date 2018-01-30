@@ -109,6 +109,7 @@
 #
 # Some shortcuts for different directory listings
 alias apt-get='apt-cyg'
+alias em='emacs'
 alias ls='ls -hF --color=tty'                 # classify files in colour
 # alias dir='ls --color=auto --format=vertical'
 # alias vdir='ls --color=auto --format=long'
