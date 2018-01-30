@@ -37,3 +37,14 @@ jkljkl
 git add .
 git commit -m "m"
 git push
+git add .
+git commit -m "m"
+git push
+bbb
+bbb
+bbb
+bbb
+git add
+git add 。
+git add .
+git commit -m "m"
