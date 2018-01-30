@@ -1,0 +1,25 @@
+* DONE 预计收到学校邀请邮件
+  DEADLINE: <2017-10-25 周三> SCHEDULED: <2017-10-12 周四>
+* DONE 毕业典礼
+  DEADLINE: <2017-11-08 周三> SCHEDULED: <2017-11-08 周三>
+* DONE 买去香港的机票
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-10-23 周一>
+* DONE 注销工商银行的信用卡
+  DEADLINE: <2017-12-01 周五> SCHEDULED: <2017-11-03 周五>
+* DONE 办理研究生学历认证
+  DEADLINE: <2017-12-31 周日> SCHEDULED: <2017-11-13 周一>
+* DONE 打印出入境记录
+  DEADLINE: <2017-11-24 周五> SCHEDULED: <2017-11-17 周五>
+* DONE 搜索excel服务器的信息
+  DEADLINE: <2017-11-27 周一> SCHEDULED: <2017-11-27 周一>
+* DONE 思考产能问题
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 今天去找一个刘素娇，补全信息还有问户口的事儿
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+======2018年=====
+* TODO 报考注会《会计》《经济法》
+   DEADLINE: <2018-04-28 周六> SCHEDULED: <2018-04-05 周四>
+* TODO 考级
+  SCHEDULED: <2018-01-02 周二>
+* TODO 出去旅游一次
+  SCHEDULED: <2018-01-02 周二>

@@ -1,0 +1,171 @@
+* DONE 催费用预算
+  DEADLINE: <2017-10-18 周三> SCHEDULED: <2017-10-18 周三>
+* DONE 催销售预算
+  DEADLINE: <2017-10-20 周五> SCHEDULED: <2017-10-20 周五>
+* DONE 总部销售预算截止日期
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-10-27 周五>
+* DONE Excel总部讲课
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-10-27 周六>
+* DONE 催销售预算X2
+  DEADLINE: <2017-10-23 周一> SCHEDULED: <2017-10-25 周三>
+* DONE 催客诉对接人
+  SCHEDULED: <2017-10-23 周一> DEADLINE: <2017-10-23 周一>
+* DONE 浩总说要聊费用的事儿
+  DEADLINE: <2017-10-23 周一> SCHEDULED: <2017-10-23 周一>
+* DONE 等粮谷质量安全部发文下来，发中转仓投保的红头文件
+  DEADLINE: <2017-10-26 周五> SCHEDULED: <2017-10-26 周四>
+* DONE 全国运营分析会议
+  DEADLINE: <2017-11-07 周二> SCHEDULED: <2017-11-06 周一>
+* DONE 催销售预算X3
+  DEADLINE: <2017-10-25 周三> SCHEDULED: <2017-10-24 周二>
+
+* DONE 述职汇报
+  DEADLINE: <2017-10-26 周四> SCHEDULED: <2017-10-26 周四>
+* DONE 催销售预算X4
+  DEADLINE: <2017-10-26 周四> SCHEDULED: <2017-10-26 周四>
+* DONE 听总部公文写作课
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-10-27 周五>
+* DONE 给栋总发预算费用收集的情况
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-10-27 周五>
+* DONE 参加粮谷费用的会，军总和浩总参会
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-11-26 周日>
+* DONE 给各个大区发邮件，通知面条sku梳理的情况
+  DEADLINE: <2017-10-27 周五> SCHEDULED: <2017-10-31 周五>
+* DONE 给各个大区发邮件，统计费用的的事儿
+  DEADLINE: <2017-10-30 周一> SCHEDULED: <2017-10-27 周五>
+* DONE 重新梳理费用模板的逻辑，编制0.6版
+  DEADLINE: <2017-11-08 周三> SCHEDULED: <2017-10-30 周一>
+* DONE 收集各大区的费用的表
+  DEADLINE: <2017-11-01 周三> SCHEDULED: <2017-10-31 周二>
+* DONE 完成栋总的产销对接的销售的PPT
+  DEADLINE: <2017-11-05 周六> SCHEDULED: <2017-10-31 周二>
+* DONE 继续梳理费用模板的逻辑并删除面粉面条部发起的重复的费用、
+  DEADLINE: <2017-11-04 周六> SCHEDULED: <2017-11-01 周三>
+* DONE 订一个会议室14:00开始的
+  DEADLINE: <2017-11-02 周四> SCHEDULED: <2017-11-01 周三>
+* DONE 参加贺总的ppt的会议
+  DEADLINE: <2017-11-03 周五> SCHEDULED: <2017-11-02 周四>
+* DONE 与各个总部部门核对费用、和栋总对区域费用
+  DEADLINE: <2017-11-03 周五> SCHEDULED: <2017-11-02 周四>
+* DONE 重新核对预算，对北分做合并
+  DEADLINE: <2017-11-09 周四> SCHEDULED: <2017-11-03 周五>
+* DONE 催大区的费用预算
+  DEADLINE: <2017-11-09 周四> SCHEDULED: <2017-11-03 周五>
+* DONE 给胜军的电脑做系统，自己的电脑也重做系统
+  DEADLINE: <2017-11-09 周四> SCHEDULED: <2017-11-03 周五>
+* DONE 汇总一些预算中福临门的销量，给不合格的大区统一发邮件通知修改
+  DEADLINE: <2017-11-13 周一> SCHEDULED: <2017-11-03 周五>
+* DONE 整理报销包括电话费和出差费用
+  DEADLINE: <2017-11-17 周五> SCHEDULED: <2017-11-14 周二>
+* DONE 参加大区总班子会议
+  DEADLINE: <2017-11-12 周日> SCHEDULED: <2017-11-11 周六>
+* DONE 制作营销费用跟踪说明的ppt
+  DEADLINE: <2017-11-11 周六> SCHEDULED: <2017-11-10 周五>
+* DONE 汇总各个大区汇报材料，统计货损
+  DEADLINE: <2017-11-11 周六> SCHEDULED: <2017-11-10 周五>
+* DONE 编写成立费用管控小组的通知和指导说明
+  DEADLINE: <2017-12-01 周五> SCHEDULED: <2017-11-12 周日>
+* DONE 给大区营销支持部发邮件说明预算协同更改事宜
+  DEADLINE: <2017-11-13 周一> SCHEDULED: <2017-11-12 周日>
+* DONE 给总部各渠道品类部门发邮件核对预算各维度
+  DEADLINE: <2017-11-13 周一> SCHEDULED: <2017-11-12 周日>
+* DONE 收集大区预算汇总(已交由白冰洋处理)
+  DEADLINE: <2017-11-20 周一> SCHEDULED: <2017-11-13 周一>
+* DONE 给大区发2017中转仓专项行动的oa
+  DEADLINE: <2017-11-20 周一> SCHEDULED: <2017-11-16 周四>
+* DONE 打印出入境记录
+  DEADLINE: <2017-11-24 周五> SCHEDULED: <2017-11-17 周五>
+* DONE 整理大区对接信息
+  DEADLINE: <2017-11-30 周四> SCHEDULED: <2017-11-16 周四>
+* DONE 修改卢总汇报的ppt
+  DEADLINE: <2017-11-17 周五> SCHEDULED: <2017-11-17 周五>
+* DONE 跟浩总核对费用，并发送给财务
+  DEADLINE: <2017-11-17 周五> SCHEDULED: <2017-11-17 周五>
+* DONE 收集黄河舟的中转物流服务商的信息
+  DEADLINE: <2017-11-21 周二> SCHEDULED: <2017-11-20 周一>
+* DONE 等华北二区费用预算、给贺总发一个整理好的费用预算的邮件
+  DEADLINE: <2017-11-21 周二> SCHEDULED: <2017-11-20 周一>
+* DONE 今天如果贺总没有反馈，就发邮件要求各个大区把费用预算分到大米、面粉、面条
+  DEADLINE: <2017-11-30 周四> SCHEDULED: <2017-11-21 周二>
+* DONE 给大区发oa通知检查中转仓的事儿
+  DEADLINE: <2017-11-21 周二> SCHEDULED: <2017-11-21 周二>
+* TODO 库存盘货从来年1月1号开始，sap上线，需要联合财务人员
+  DEADLINE: <2018-01-31 周三> SCHEDULED: <2018-01-01 周一>
+* TODO 面品类4次知识培训，全国每次20人共计80人左右，白冰洋
+  DEADLINE: <2018-03-01 周四> SCHEDULED: <2017-11-21 周二>
+* TODO 交叉检查，分两类1，检查；2，研讨，胡来春
+  DEADLINE: <2018-03-01 周四> SCHEDULED: <2017-11-21 周二>
+* DONE 给黄河舟确认检查对接人
+  DEADLINE: <2017-11-22 周三> SCHEDULED: <2017-11-22 周三>
+* DONE 给贺总发邮件，整理大区费用，总部费用，总部专项费用和日常费用的邮件
+  DEADLINE: <2017-11-22 周三> SCHEDULED: <2017-11-22 周三>
+* DONE 跟宗志伟讨论费用管理的事情，达成一致，我这边可以给财务部提一些要求，以便于统计
+  DEADLINE: <2017-11-22 周三> SCHEDULED: <2017-11-22 周三>
+* DONE 制作费用管理模板，完善费用小组通知
+  DEADLINE: <2017-12-20 周三> SCHEDULED: <2017-11-22 周三>
+* DONE 收集华东检查仓库的对接人
+  DEADLINE: <2017-11-23 周四> SCHEDULED: <2017-11-22 周三>
+* DONE 整理华东的中转物流的信息，主要是山东合并到华东以后仓库的情况
+  DEADLINE: <2017-11-23 周四> SCHEDULED: <2017-11-22 周三>
+* DONE 和黄河舟碰头关于客诉的事情
+  DEADLINE: <2017-11-30 周四> SCHEDULED: <2017-11-30 周四>
+* DONE 给大区的人发2018年费用模板
+  DEADLINE: <2017-11-29 周三> SCHEDULED: <2017-11-19 周日>
+* DONE 给贺总、栋总等领导汇报2018年费用预算
+  DEADLINE: <2017-11-29 周三> SCHEDULED: <2017-11-29 周三>
+* DONE 跟财务沟通统一支付模板
+  DEADLINE: <2017-11-29 周三> SCHEDULED: <2017-11-29 周三>
+* DONE 给品类隋真真做nc和sap销量对照的表格
+  DEADLINE: <2017-12-01 周五> SCHEDULED: <2017-12-01 周五>
+
+* DONE 写OA客诉要求的通知，问下领导，发下去
+  DEADLINE: <2017-12-01 周五> SCHEDULED: <2017-12-01 周五>
+* DONE 写OA成立费用小组的通知，问下领导，发下去a
+  DEADLINE: <2017-12-08 周五> SCHEDULED: <2017-1
+* DONE 发费用管控小组的通知
+  DEADLINE: <2017-12-08 周五> SCHEDULED: <2017-12-08 周五>
+* DONE 撰写年底催福临门销售额的通知
+  DEADLINE: <2017-12-08 周五> SCHEDULED: <2017-12-08 周五>
+* DONE 汇总一版费用 
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 思考产能问题
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 小白没来的话，我来合并预算
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 费用预算搞出一版（专项费用没有改变，营销费用暂按0.8比例折算）
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 收集费用小组成员名单
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 做一版汇总预算
+  DEADLINE: <2017-12-28 周四> SCHEDULED: <2017-12-28 周四>
+* DONE 给卢总做述职报告
+  DEADLINE: <2017-12-28 周四> SCHEDULED: <2017-12-28 周四>
+======2018年规划======
+* DONE 发oa通知到大区，仓库检查的结果，要求整改
+  DEADLINE: <2018-01-05 周五> SCHEDULED: <2018-01-02 周二>
+* DONE 对比预算和要货计划，编写要货计划对比报告（1月）
+  DEADLINE: <2018-01-04 周四> SCHEDULED: <2018-01-03 周三>
+* DONE 给黄河舟筛客诉涉及的sku 
+  DEADLINE: <2018-01-03 周三> SCHEDULED: <2018-01-03 周三>
+* DONE 给贺总发2018年底的费用，销量的预算
+  DEADLINE: <2018-01-03 周三> SCHEDULED: <2018-01-03 周三>
+* DONE 参加1月4日营销公司会
+  DEADLINE: <2018-01-04 周四> SCHEDULED: <2018-01-04 周四>
+* DONE 给大区发1月要货计划与预算对比沟通函
+  DEADLINE: <2018-01-12 周五> SCHEDULED: <2018-01-12 周五>
+* DONE 年底的费用跟踪报告 
+  DEADLINE: <2018-01-12 周五> SCHEDULED: <2018-01-12 周五>
+* DONE 贺总的ppt
+  DEADLINE: <2018-01-18 周四> SCHEDULED: <2018-01-18 周四>
+* DONE 杨总指示测算费用
+  DEADLINE: <2018-01-18 周四> SCHEDULED: <2018-01-18 周四>
+* DONE 给杨总做ppt
+  DEADLINE: <2018-01-24 周三> SCHEDULED: <2018-01-24 周三>
+* DONE 收中转外租库整顿表格
+  DEADLINE: <2018-01-26 周五> SCHEDULED: <2018-01-24 周三>
+* DONE 参加书院会议
+  DEADLINE: <2018-01-23 周二> SCHEDULED: <2018-01-22 周一>
+* DONE 卢总的书院ppt报告
+  DEADLINE: <2018-01-22 周一> SCHEDULED: <2018-01-18 周四>
+* DONE 给何尧反馈非自有中转外租库整顿情况
+  DEADLINE: <2018-01-26 周五> SCHEDULED: <2018-01-26 周五>

@@ -77,17 +77,17 @@
 ;;定义快速hack功能。
 (defun open-my-init-file()
     (interactive)
-    (find-file "e:/Emacs/.emacs"))
+    (find-file "~/.emacs"))
 ;;绑定快速hack的功能键。
 (global-set-key (kbd "<f1>") 'open-my-init-file)
 (defun open-my-org-file()
     (interactive)
-    (find-file "e:/Emacs/工作.org"))
+    (find-file "~/org/工作.org"))
 ;;绑定快速编辑日程的功能键。
 (global-set-key (kbd "<f2>") 'open-my-org-file)
 (defun open-my-per-file()
     (interactive)
-    (find-file "e:/Emacs/个人.org"))
+    (find-file "~/.org/个人.org"))
 ;;绑定快速编辑日程的功能键。
 (global-set-key (kbd "<f3>") 'open-my-per-file)
 ;;全局打开自动补全的功能。
