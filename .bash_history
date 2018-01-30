@@ -72,3 +72,11 @@ git commit -m "m"
 git push
 git pull
 alias
+alias
+ls
+ls -a
+emacs .gitignore 
+git add .
+git commit -m "m"
+git push
+exit
