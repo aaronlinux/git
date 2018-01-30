@@ -1,0 +1,10 @@
+.emacs.d/
+
+.gnupg/
+
+.ssh/
+
+.bash_history
+
+.ssh/
+known_hosts
