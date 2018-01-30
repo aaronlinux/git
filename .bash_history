@@ -59,3 +59,111 @@ emacs .bashrc
 s
 ls
 exit
+apt-get install git
+alias
+alias apt-get='apt-cyg'
+apt-get install git
+ emacs
+emacs
+emacs
+emacs
+ls
+ll
+ls -a
+pwd
+git init
+git add .
+git commit -m "linuxgitconfig"
+git config --global mail@liusong.net
+ls
+cd ..
+ls
+mkdir a
+ls
+cd a
+ls
+git clone git@github.com:aaronlinux/git.git
+ls
+cd a
+ls -a
+cd ..
+ls
+rm -r a
+ls
+cd
+ls
+ssh-keygen -C 'mail@liusong.net' -t rsa
+ls
+ls -a
+cd .ssh
+ls
+cat id_rsa.pub 
+cd
+ls
+ls -a
+git clone git@github.com:aaronlinux/git.git
+ls
+cd git
+ls
+ls -a
+cp .git/ ~/
+ls
+cd
+ls
+git add .
+git commit -m "newgit"
+git config --global mail@liusong.net
+
+ls
+ls
+su 
+ls
+git clone git@github.com:aaronlinux/git.git
+ls
+git remote add origin git@github.com:aaronlinux/git.git
+git add .
+git commit -m "new"
+git config --global user.email "you@example.com"
+git config --global user.email "mail@liusong.net"
+git config --global user.name "liusong"
+git commit -m "new"
+git push git@github.com:aaronlinux/git.git
+ls
+ls
+ls
+ls -a
+cd .git
+ls
+touch .gitignore
+ls
+touch ./.gitignore
+ls
+cd
+ls
+ls -a
+cd git
+ls
+cd .git
+ls
+touch
+touch .gitignore
+ls[
+ls
+touch .gitignore
+ls
+emacs gitignore
+emacs .gitignore
+ls
+ls
+ls -a
+cat .gitignore 
+emacs .gitignore 
+git add .
+cd
+git add .
+git commit -m "modify"
+
+ls
+ls .bashrc 
+emacs .bashrc 
+exit
