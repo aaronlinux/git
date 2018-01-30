@@ -82,7 +82,7 @@
 (global-set-key (kbd "<f1>") 'open-my-init-file)
 (defun open-my-org-file()
     (interactive)
-    (find-file "~/org/工作.org"))
+    (find-file "~/.org/工作.org"))
 ;;绑定快速编辑日程的功能键。
 (global-set-key (kbd "<f2>") 'open-my-org-file)
 (defun open-my-per-file()
