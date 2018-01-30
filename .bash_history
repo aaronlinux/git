@@ -26,3 +26,14 @@ cd
 git add .
 git commit -m "apt"
 git push
+git add .
+git commit -m "m"
+git add .
+git commit -m "m"
+git push
+jkjkl
+jkljkl
+jkljkl
+git add .
+git commit -m "m"
+git push
