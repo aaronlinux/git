@@ -1,0 +1,16 @@
+BoldAsFont=-1
+Language=zh_CN
+Font=Consolas
+FontHeight=11
+Locale=zh_CN
+Charset=UTF-8
+ThemeFile=mintty
+Transparency=high
+Scrollbar=none
+ScrollMod=off
+FontWeight=400
+FontIsBold=no
+RightClickAction=menu
+ClicksTargetApp=no
+Rows=46
+PgUpDnScroll=yes
