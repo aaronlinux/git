@@ -80,3 +80,10 @@ git add .
 git commit -m "m"
 git push
 exit
+apt-get install sl
+sl
+git pull
+git pull
+git pull
+lslsl
+lslsl
