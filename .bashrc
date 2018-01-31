@@ -22,11 +22,11 @@
 # a patch to the cygwin mailing list.
 
 # User dependent .bashrc file
-
+PS1="\[\033[0;32m\]\u@\W\$\[\033[00m\] "
+export PS1
 # If not running interactively, don't do anything
 #[[ "$-" != *i* ]] && return
 [[ "$-" != *i* ]]
-
 # Shell Options
 #
 # See man bash for more options...
