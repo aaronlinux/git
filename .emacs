@@ -124,9 +124,9 @@
 ;;绑定ctrol+c a为打开org-mode下的日程功能
 (global-set-key (kbd "C-c a") 'org-agenda)
 ;;打开power-mode模式
-(powerline-center-theme)
-;;把中间分隔的地方用箭头来过渡。
-(setq powerline-default-separator 'arrow)
+;;(powerline-center-theme)
+;;把中间分隔的地方用箭头来过
+;;(setq powerline-default-separator 'bar)
 ;;打开window-numbering模式。
 (window-numbering-mode 1)
 ;;把新打开的窗口编号，并把编号等效作为他的名称。
