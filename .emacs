@@ -108,7 +108,7 @@
 ;;(smex-initialize)
 ;;(global-set-key (kbd "M-x") 'smex)
 ;;将.emacs目录下的org.org文件设置为个人日程管理的文件，同时使用git版本控制进行管理。
-(setq org-agenda-files (list "e:/Emacs/" ))
+(setq org-agenda-files (list "~/.org/" ))
 ;;打开ivy模式。
 (ivy-mode t)
 ;;打开ivy模式下的虚拟缓冲区。
