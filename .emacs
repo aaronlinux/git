@@ -48,7 +48,7 @@
 ;;显示时间。
 (display-time-mode t)
 ;;设置窗体透明度。
-(global-set-key [(f12)] 'loop-alpha)  
+(global-set-key [(f2)] 'loop-alpha)  
 (setq alpha-list '((100 100) (95 65) (85 55) (75 45) (65 35)))  
 (defun loop-alpha ()  
   (interactive)  
@@ -59,7 +59,7 @@
        ) (car h) (car (cdr h)))  
     (setq alpha-list (cdr (append alpha-list (list h))))  
     )  
-)  
+  )
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;按24小时的格式显示时间;;执行效率太低，所以禁用了。
 ;;(setq-default display-time-24hr-format 1)
@@ -67,7 +67,7 @@
 ;;(setq-default display-time-day-and-date t)
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;关闭滚动条。
-;;(scroll-bar-mode -1)
+;;(scroll-bar-mode 0)
 ;;关闭工具菜单栏。
 (menu-bar-mode -1)
 ;;全局打开行号。
@@ -84,12 +84,12 @@
     (interactive)
     (find-file "~/.org/工作.org"))
 ;;绑定快速编辑日程的功能键。
-(global-set-key (kbd "<f2>") 'open-my-org-file)
+(global-set-key (kbd "<f5>") 'open-my-org-file)
 (defun open-my-per-file()
     (interactive)
     (find-file "~/.org/个人.org"))
 ;;绑定快速编辑日程的功能键。
-(global-set-key (kbd "<f5>") 'open-my-per-file)
+(global-set-key (kbd "<f6>") 'open-my-per-file)
 ;;全局打开自动补全的功能。
 (global-company-mode t)
 ;;把光标换成竖杠。
@@ -163,3 +163,4 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal)))))
+
