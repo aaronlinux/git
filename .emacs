@@ -90,6 +90,11 @@
     (find-file "~/.org/个人.org"))
 ;;绑定快速编辑日程的功能键。
 (global-set-key (kbd "<f6>") 'open-my-per-file)
+(defun open-my-macro-file()
+    (interactive)
+    (find-file "~/.macro"))
+;;绑定快速编辑日程的功能键。
+(global-set-key (kbd "<f9>") 'open-my-macro-file)
 ;;全局打开自动补全的功能。
 (global-company-mode t)
 ;;把光标换成竖杠。
@@ -143,6 +148,7 @@
 ;;需要安装switch-window。
 (global-set-key (kbd "C-M-Z") 'switch-window)
 ;;(cd "e:/Work")
+(load-file "~/.macro")
 (global-set-key (kbd "<mouse-1>") 'mouse-set-point)
 (global-set-key (kbd "<down-mouse-1>") 'mouse-drag-region)
 (global-set-key (kbd "<mouse-2>") 'mouse-yank-at-click)
