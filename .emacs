@@ -89,7 +89,7 @@
     (interactive)
     (find-file "~/.org/个人.org"))
 ;;绑定快速编辑日程的功能键。
-(global-set-key (kbd "<f3>") 'open-my-per-file)
+(global-set-key (kbd "<f5>") 'open-my-per-file)
 ;;全局打开自动补全的功能。
 (global-company-mode t)
 ;;把光标换成竖杠。
