@@ -84,7 +84,7 @@
     (interactive)
     (find-file "~/.org/工作.org"))
 ;;绑定快速编辑日程的功能键。
-(global-set-key (kbd "<f5>") 'open-my-org-file)
+(global-set-key (kbd "<f7>") 'open-my-org-file)
 (defun open-my-per-file()
     (interactive)
     (find-file "~/.org/个人.org"))
