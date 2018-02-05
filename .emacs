@@ -27,7 +27,8 @@
 	       company
 	       powerline
 	       undo-tree
-	       markdown-mode) "Default packages")
+	       markdown-mode
+	       w3m) "Default packages")
 ;;把自己定义的安装列表赋给emacs的包管理器来管理。
 (setq package-selected-packages pkgs)
 ;;定义一个函数，判断安装包是否已经被安装。
@@ -49,7 +50,7 @@
 (display-time-mode t)
 ;;设置窗体透明度。
 (global-set-key [(f2)] 'loop-alpha)  
-(setq alpha-list '((100 100) (95 65) (85 55) (75 45) (65 35)))  
+(setq alpha-list '((100 100) (95 65) (90 60) (85 55) (80 50) (75 45) (70 40) (65 35)))  
 (defun loop-alpha ()  
   (interactive)  
   (let ((h (car alpha-list)))                ;; head value will set to  
