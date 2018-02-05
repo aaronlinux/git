@@ -14,3 +14,8 @@ document/
 
 .w3m/
 
+.cpan/
+
+.cpanm/
+
+perl5/
