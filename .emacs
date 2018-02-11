@@ -61,6 +61,7 @@
     (setq alpha-list (cdr (append alpha-list (list h))))  
     )  
   )
+(set-frame-parameter (selected-frame)  'alpha (list 90 60))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;按24小时的格式显示时间;;执行效率太低，所以禁用了。
 (setq-default display-time-24hr-format 1)
@@ -133,9 +134,13 @@
 ;;绑定ctrol+c a为打开org-mode下的日程功能
 (global-set-key (kbd "C-c a") 'org-agenda)
 ;;打开power-mode模式
-;;(powerline-center-theme)
+(if (display-graphic-p)
+    (progn
+;;打开powerline模式
+      (powerline-center-theme)
 ;;把中间分隔的地方用箭头来过
-;;(setq powerline-default-separator 'bar)
+      (setq powerline-default-separator 'curve)
+      ))
 ;;打开window-numbering模式。
 (window-numbering-mode 1)
 ;;把新打开的窗口编号，并把编号等效作为他的名称。
@@ -172,5 +177,6 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal)))))
+'(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal))))
+ )
 
