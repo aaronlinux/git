@@ -28,7 +28,10 @@
 	       powerline
 	       undo-tree
 	       markdown-mode
-	       w3m) "Default packages")
+	       w3m
+	       smart-mode-line
+	       solarized-theme
+	       ) "Default packages")
 ;;把自己定义的安装列表赋给emacs的包管理器来管理。
 (setq package-selected-packages pkgs)
 ;;定义一个函数，判断安装包是否已经被安装。
@@ -61,7 +64,7 @@
     (setq alpha-list (cdr (append alpha-list (list h))))  
     )  
   )
-(set-frame-parameter (selected-frame)  'alpha (list 90 60))
+(set-frame-parameter (selected-frame)  'alpha (list 95 45))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;按24小时的格式显示时间;;执行效率太低，所以禁用了。
 (setq-default display-time-24hr-format 1)
@@ -135,12 +138,17 @@
 (global-set-key (kbd "C-c a") 'org-agenda)
 ;;打开power-mode模式
 (if (display-graphic-p)
-    (progn
+  (progn
 ;;打开powerline模式
-      (powerline-center-theme)
+    (powerline-center-theme)
 ;;把中间分隔的地方用箭头来过
-      (setq powerline-default-separator 'curve)
-      ))
+    (setq powerline-default-separator 'curve))
+  (progn
+    (setq sml/no-confirm-load-theme t)
+    (sml/setup)
+;;  (setq solarized-distinct-fringe-background t)
+    (setq sml/theme 'dark))
+  )
 ;;打开window-numbering模式。
 (window-numbering-mode 1)
 ;;把新打开的窗口编号，并把编号等效作为他的名称。
@@ -169,14 +177,30 @@
  ;; If there is more than one, they won't work right.
  '(company-idle-delay 0.05)
  '(company-minimum-prefix-length 1)
- '(package-selected-packages
+ '(custom-safe-themes
    (quote
-    (magit web-mode w3m markdown-mode switch-window window-numbering monokai-theme counsel swiper windresize paperless num3-mode company powerline undo-tree))))
+    ("a27c00821ccfd5a78b01e4f35dc056706dd9ede09a8b90c6955ae6a390eb1c1e" "3c83b3676d796422704082049fc38b6966bcad960f896669dfc21a7a37a748fa" default)))
+ '(package-selected-packages 'pkgs)
+;;   (quote (switch-window
+;;	   window-numbering
+;;	   monokai-theme
+;;              counsel
+;;              swiper
+;;	   windresize
+;;	   paperless
+;;	   num3-mode
+;;	   company
+;;	   powerline
+;;	   undo-tree
+;;	   markdown-mode
+;;	   w3m
+;;	   smart-mode-line
+;;             solarized-theme)
+ )))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
-'(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal))))
- )
+ '(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal)))))
 
