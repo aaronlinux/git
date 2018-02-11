@@ -141,6 +141,7 @@
     (powerline-center-theme)
 ;;把中间分隔的地方用箭头来过
     (setq powerline-default-separator 'curve))
+;;如果不满足条件，那么执行下边的代码
   (progn
     (setq sml/theme 'light)
     (setq solarized-distinct-fringe-background t)
