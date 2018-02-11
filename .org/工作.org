@@ -117,7 +117,6 @@
   DEADLINE: <2017-11-29 周三> SCHEDULED: <2017-11-29 周三>
 * DONE 给品类隋真真做nc和sap销量对照的表格
   DEADLINE: <2017-12-01 周五> SCHEDULED: <2017-12-01 周五>
-
 * DONE 写OA客诉要求的通知，问下领导，发下去
   DEADLINE: <2017-12-01 周五> SCHEDULED: <2017-12-01 周五>
 * DONE 写OA成立费用小组的通知，问下领导，发下去a
@@ -127,6 +126,8 @@
 * DONE 撰写年底催福临门销售额的通知
   DEADLINE: <2017-12-08 周五> SCHEDULED: <2017-12-08 周五>
 * DONE 汇总一版费用 
+  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
+* DONE 思考产能问题
   DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
 * DONE 思考产能问题
   DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>

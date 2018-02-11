@@ -12,8 +12,6 @@
   DEADLINE: <2017-11-24 周五> SCHEDULED: <2017-11-17 周五>
 * DONE 搜索excel服务器的信息
   DEADLINE: <2017-11-27 周一> SCHEDULED: <2017-11-27 周一>
-* DONE 思考产能问题
-  DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
 * DONE 今天去找一个刘素娇，补全信息还有问户口的事儿
   DEADLINE: <2017-12-18 周一> SCHEDULED: <2017-12-18 周一>
 ======2018年=====
