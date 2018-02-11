@@ -2,7 +2,6 @@
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
-
 (when (>= emacs-major-version 24)
     (require 'package)
     (package-initialize)
@@ -10,7 +9,6 @@
 			     ("melpa" . "http://elpa.emacs-china.org/melpa/"))))
 ;;包管理初始化。
 (package-initialize)
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;引入common lisp的语言包，这样就可以使用common lisp的语法了。
 (require 'cl)
@@ -144,10 +142,12 @@
 ;;把中间分隔的地方用箭头来过
     (setq powerline-default-separator 'curve))
   (progn
+    (setq sml/theme 'light)
+    (setq solarized-distinct-fringe-background t)
     (setq sml/no-confirm-load-theme t)
     (sml/setup)
-;;  (setq solarized-distinct-fringe-background t)
-    (setq sml/theme 'dark))
+    )
+
   )
 ;;打开window-numbering模式。
 (window-numbering-mode 1)
@@ -180,27 +180,12 @@
  '(custom-safe-themes
    (quote
     ("a27c00821ccfd5a78b01e4f35dc056706dd9ede09a8b90c6955ae6a390eb1c1e" "3c83b3676d796422704082049fc38b6966bcad960f896669dfc21a7a37a748fa" default)))
- '(package-selected-packages 'pkgs)
-;;   (quote (switch-window
-;;	   window-numbering
-;;	   monokai-theme
-;;              counsel
-;;              swiper
-;;	   windresize
-;;	   paperless
-;;	   num3-mode
-;;	   company
-;;	   powerline
-;;	   undo-tree
-;;	   markdown-mode
-;;	   w3m
-;;	   smart-mode-line
-;;             solarized-theme)
- )
- (custom-set-faces
+ '(package-selected-packages (quote pkgs)))
+ 
+(custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
-'(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal)))))
+ '(default ((t (:family "微软雅黑" :foundry "outline" :slant normal :weight normal :height 98 :width normal)))))
 
