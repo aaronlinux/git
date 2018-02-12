@@ -94,13 +94,13 @@ fi
 #================
 #这里是我自己添加的
 #用来简化从网络上克隆我的个人网站的过程的
-alias gitclone='git clone git@github.com:aaronlinux/aaronlinux.github.io.git'
+#alias gitclone='git clone git@github.com:aaronlinux/aaronlinux.github.io.git'
 #添加到本地库
 alias gitadd='git add .'
 alias gitcommit='git commit -m "linux常规更改"'
-alias gitpush='git push'
-alias emacs='emacs24 -nw'
-alias gitrenew='gitadd && gitcommit && gitpush'
+#alias gitpush='git push'
+#alias emacs='emacs24 -nw'
+alias gitrenew='git add . && git commit -m "常规更改" && git push'
 alias shuku='sh .rslsync.sh &'
 alias em='emacs'
 # Alias definitions.
@@ -136,4 +136,3 @@ fi
 #fi
 
 # added by Anaconda2 installer
-export PATH="/home/liusong/anaconda2/bin:$PATH"
