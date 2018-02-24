@@ -80,15 +80,15 @@ esac
 #alias la='ls -A'
 #alias l='ls -CF'
 #================
-#è¿™é‡Œæ˜¯æˆ‘è‡ªå·±æ·»åŠ çš„
-#ç”¨æ¥ç®€åŒ–ä»ç½‘ç»œä¸Šå…‹éš†æˆ‘çš„ä¸ªäººç½‘ç«™çš„è¿‡ç¨‹çš„
+#ÕâÀïÊÇÎÒ×Ô¼ºÌí¼ÓµÄ
+#ÓÃÀ´¼ò»¯´ÓÍøÂçÉÏ¿ËÂ¡ÎÒµÄ¸öÈËÍøÕ¾µÄ¹ı³ÌµÄ
 alias gitclone='git clone git@github.com:aaronlinux/aaronlinux.github.io.git'
-#æ·»åŠ åˆ°æœ¬åœ°åº“
+#Ìí¼Óµ½±¾µØ¿â
 alias gitadd='git add .'
-alias gitcommit='git commit -m "linuxå¸¸è§„æ›´æ”¹"'
+alias gitcommit='git commit -m "linux³£¹æ¸ü¸Ä"'
 #alias gitpush='git push'
 #alias emacs='emacs24 -nw'
-alias gitrenew='git add . && git commit -m "å¸¸è§„æ›´æ”¹" && git push'
+alias gitrenew='git add . && git commit -m "³£¹æ¸ü¸Ä" && git push'
 alias shuku='sh .rslsync.sh &'
 alias em='emacs'
 # Alias definitions.
@@ -96,9 +96,9 @@ alias em='emacs'
 # ~/.bash_aliases, instead of adding them here directly.
 # See /usr/share/doc/bash-doc/examples in the bash-doc package.
 
-if [ -f ~/.bash_aliases ]; then
+#if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
-fi
+#fi
 
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
@@ -111,8 +111,8 @@ if ! shopt -oq posix; then
   fi
 fi
 #if [ "$TERM" = "linux" ]; then
-# æ­¤å¤„ä½¿ç”¨äº†åˆ«å,å¦‚æ­¤å½“æˆ‘ä»¬é€€å‡ºfbtermå,ä¾¿èƒ½å¤Ÿé€šè¿‡ç®€å•çš„å‘½ä»¤:fbterm,
-# é‡æ–°å¯åŠ¨fbtermäº†,è€Œä¸ç”¨å†æŒ‡å®šLANG.
+# ´Ë´¦Ê¹ÓÃÁË±ğÃû,Èç´Ëµ±ÎÒÃÇÍË³öfbtermºó,±ãÄÜ¹»Í¨¹ı¼òµ¥µÄÃüÁî:fbterm,
+# ÖØĞÂÆô¶¯fbtermÁË,¶ø²»ÓÃÔÙÖ¸¶¨LANG.
 #alias fbterm='LANG=zh_CN.UTF-8 fbterm'
 #fbterm
 #fi
