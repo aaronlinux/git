@@ -175,13 +175,13 @@
 * DONE 参加资本运营会议后写一个听后感
   DEADLINE: <2018-02-12 周一> SCHEDULED: <2018-02-08 周四>
 <<<<<<< HEAD
-* TODO 给贺总做ppt
-  DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
+* DONE 给贺总做ppt
+DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
 * DONE 给贺总整理费用的表格
   DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-26 周一>
 =======
 * DONE 营销公司班子会议
   DEADLINE: <2018-02-28 Wed> SCHEDULED: <2018-02-28 Wed>
-* TODO bi系统项目研讨
+* DONE bi系统项目研讨
   DEADLINE: <2018-02-28 Wed> SCHEDULED: <2018-02-28 Wed>
 >>>>>>> 8d7e478cdbd23ce27d59499b9496feede1f138db
