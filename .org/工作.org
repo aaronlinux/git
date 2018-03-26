@@ -175,7 +175,7 @@
 * DONE 参加资本运营会议后写一个听后感
   DEADLINE: <2018-02-12 周一> SCHEDULED: <2018-02-08 周四>
 <<<<<<< HEAD
-* DONE 给贺总做ppt
+* DONE 给贺总做营销公司第一次汇报的ppt
 DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
 * DONE 给贺总整理费用的表格
   DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-26 周一>
@@ -185,3 +185,95 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
 * DONE bi系统项目研讨
   DEADLINE: <2018-02-28 Wed> SCHEDULED: <2018-02-28 Wed>
 >>>>>>> 8d7e478cdbd23ce27d59499b9496feede1f138db
+* DONE 给贺总做财务部的ppt模板
+  DEADLINE: <2018-03-13 周二> SCHEDULED: <2018-03-05 周一>
+* DONE 给贺总做营销公司第二次汇报的帽子PPT
+  DEADLINE: <2018-03-13 周二> SCHEDULED: <2018-03-05 周一>
+* DONE 问IT王斌签订合同，IBM从上海开发票和从北京开发票有什么不同
+  DEADLINE: <2018-03-13 周二> SCHEDULED: <2018-03-13 周二>
+* DONE 给战略运营做给KKR投资人介绍中粮的混改投资的PPT
+  DEADLINE: <2018-03-13 周二> SCHEDULED: <2018-03-05 周一>
+* DONE 给贺总做1-2月份销量达成的表
+  DEADLINE: <2018-03-10 周六> SCHEDULED: <2018-03-01 周四>
+* DONE 给贺总整理费用分摊情况补充物流费用的表格（主要是换维度整理）
+  DEADLINE: <2018-02-26 周一> SCHEDULED: <2018-02-26 周一>
+* DONE 给贺总写《关于做好2018年两节期间秋粮收购双节保供有关工作的报告》
+  DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
+* DONE 给贺总整理2018年促销费用明细
+  DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
+* DONE 战略运营发出IB系统项目第一次会议的通知
+  DEADLINE: <2018-02-28 周三> SCHEDULED: <2018-02-28 周三>
+* DONE 整理营销公司1-2月份进销存，并发给相关领导同事，发送oa
+  DEADLINE: <2018-03-02 周五> SCHEDULED: <2018-03-02 周五>
+* DONE 回复营销公司进销存数据情况
+  DEADLINE: <2018-03-02 周五> SCHEDULED: <2018-03-02 周五>
+* DONE 修改营销公司会议纪要，发给领导和同事
+  DEADLINE: <2018-03-05 周一> SCHEDULED: <2018-03-05 周一>
+* DONE 带着小熊整理营销公司2017年费用
+  DEADLINE: <2018-03-05 周一> SCHEDULED: <2018-03-13 周二>
+* DONE 给贺总核对另一版2018年量价预算
+  DEADLINE: <2018-03-06 周二> SCHEDULED: <2018-03-06 周二>
+* DONE 给贺总补充在预算中的品牌、去规格品项、规格、存货分类等
+  DEADLINE: <2018-03-06 周二> SCHEDULED: <2018-03-06 周二>
+* DONE 给贺总做2018年2017年分米种的各维度的对比分析
+  DEADLINE: <2018-03-06 周二> SCHEDULED: <2018-03-06 周二>
+* DONE 跟法务部确认bi系统的说明书协议的法律合规性（发邮件，姜心怡）
+  DEADLINE: <2018-03-07 周三> SCHEDULED: <2018-03-07 周三>
+* DONE 给金向非做杂粮的数据达成分析
+  DEADLINE: <2018-03-08 周四> SCHEDULED: <2018-03-08 周四>
+* DONE 给贺总做2018年费用的规划汇总（从各个领导ppt找出来）
+  DEADLINE: <2018-03-08 周四> SCHEDULED: <2018-03-08 周四>
+* DONE 答复河南分公司张杰关于中转仓招标相关的文件
+  DEADLINE: <2018-03-08 周四> SCHEDULED: <2018-03-08 周四>
+* DONE 咨询陈栋新零售相关的信息，按照KKR的点评修改混改PPT
+  DEADLINE: <2018-03-08 周四> SCHEDULED: <2018-03-08 周四>
+* DONE 给丁秋雨发2018年的预算
+  DEADLINE: <2018-03-13 周二> SCHEDULED: <2018-03-13 周二>
+* DONE 给法务审合同，BI项目的
+  DEADLINE: <2018-03-14 周三> SCHEDULED: <2018-03-14 周三>
+* DONE 给大区发统计中转仓和物流的信息表格
+  DEADLINE: <2018-03-14 周三> SCHEDULED: <2018-03-13 周二>
+* DONE 跟党群的周祖永借会议室
+  SCHEDULED: <2018-03-14 周三> DEADLINE: <2018-03-14 周三>
+* DONE 把双节保供的word 推掉
+  DEADLINE: <2018-03-14 周三> SCHEDULED: <2018-03-14 周三>
+* DONE 给贺总做2018年回报的ppt（第三次）
+  DEADLINE: <2018-03-13 周二> SCHEDULED: <2018-03-14 周三>
+* DONE 申请运营编制人员入职
+  DEADLINE: <2018-03-14 周三> SCHEDULED: <2018-03-14 周三>
+* DONE 发给法务确认bi协议书的合规性tob
+  DEADLINE: <2018-03-19 周一> SCHEDULED: <2018-03-15 周四>
+* DONE 去营销公司讨论1.3亿费用规划事宜
+  DEADLINE: <2018-03-16 周五> SCHEDULED: <2018-03-15 周四>
+* DONE OA发送混改相关的通知
+  DEADLINE: <2018-03-16 周五> SCHEDULED: <2018-03-16 周五>
+* DONE 给王德伟提供人力关于营销公司定性考核的指标
+  DEADLINE: <2018-03-16 周五> SCHEDULED: <2018-03-16 周五>
+* DONE 给各个专业化平台的人发送收集第一阶段信息的需求
+  DEADLINE: <2018-03-16 周五> SCHEDULED: <2018-03-16 周五>
+* DONE 收集各个专业化平台专卖店的对接人并建立微信群
+  DEADLINE: <2018-03-16 周五> SCHEDULED: <2018-03-16 周五>
+* DONE OA上发布战略运营部工作月报
+  DEADLINE: <2018-03-19 周一> SCHEDULED: <2018-03-19 周一>
+* DONE 给崔大庆和徐念龙申请sap大区总的权限
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-19 周一>
+* DONE 写中粮专卖店项目的周报
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-20 周二>
+* DONE 梳理营销公司费用报销流程，编写通知和模板并发放给营销公司、大区总、大区财务
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-21 周三>
+* DONE 跟法务部开小会，确认bi项目的tob
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-21 周三>
+* DONE 给特渠、凌云、做费用台账范例，OA确认流程
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-21 周三>
+* DONE 给贺总做分客户分渠道的划分
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-21 周三>
+* DONE 和吴昊、康东奇、宗志伟碰营销公司费用的事情
+  DEADLINE: <2018-03-22 周四> SCHEDULED: <2018-03-22 周四>
+* DONE 给各专业化平台公司发第二期需要收集的材料，和总裁的批示
+  DEADLINE: <2018-03-23 周五> SCHEDULED: <2018-03-23 周五>
+* TODO 想一下竞争性谈判都需要哪些经销商信息、资质材料、和打分规则
+  DEADLINE: <2018-03-26 周一> SCHEDULED: <2018-03-23 周五>
+* DONE 预定2018年3月27日1502会议室
+  DEADLINE: <2018-03-23 周五> SCHEDULED: <2018-03-23 周五>
+* DONE 答复金总，运费的数据来源
+  DEADLINE: <2018-03-21 周三> SCHEDULED: <2018-03-21 周三>
