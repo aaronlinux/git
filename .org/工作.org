@@ -281,9 +281,31 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-03-23 周五> SCHEDULED: <2018-03-23 周五>
 * DONE 给ibm的合同盖章
   DEADLINE: <2018-03-26 周一> SCHEDULED: <2018-03-26 周一>
-* TODO 做权利下方的ppt
+* DONE 做权利下方的ppt
   DEADLINE: <2018-03-29 周四> SCHEDULED: <2018-03-28 周三>
 * DONE 写京东会议的会议纪要
   DEADLINE: <2018-03-28 周三> SCHEDULED: <2018-03-27 周二>
 * DONE 贺总的会议通知
   DEADLINE: <2018-03-29 周四> SCHEDULED: <2018-03-28 周三>
+* DONE 给贺总做ppt，一季度运营分析会-主要是谢天做的
+  DEADLINE: <2018-04-02 周一> SCHEDULED: <2018-04-02 周一>
+* DONE 制作大区费用台账
+  DEADLINE: <2018-03-30 周五> SCHEDULED: <2018-03-29 周四>
+* DONE 写中粮专卖店的部署文档并与京东战略姜旺联系
+  DEADLINE: <2018-03-30 周五> SCHEDULED: <2018-03-30 周五>
+* DONE 新员工申请电脑，sap、bpm账号，工卡，邮箱，oa
+  DEADLINE: <2018-03-26 周一> SCHEDULED: <2018-03-26 周一>
+* DONE 统计中粮专卖店经销商
+  DEADLINE: <2018-03-30 周五> SCHEDULED: <2018-03-30 周五>
+* DONE 给姜楠做公司系统内从2015年开始到现在的SKU数量分析
+  DEADLINE: <2018-04-03 周二> SCHEDULED: <2018-04-03 周二>
+* DONE 编写第二期专卖店简报
+  DEADLINE: <2018-04-03 周二> SCHEDULED: <2018-04-03 周二>
+* DONE 催中茶专卖店经销商名单，沟通蒙牛专卖店遴选多个经销商
+  DEADLINE: <2018-04-03 周二> SCHEDULED: <2018-04-03 周二>
+* DONE 跟王亚锟和曹懂邮件沟通专卖店品类的比例
+  DEADLINE: <2018-04-03 周二> SCHEDULED: <2018-04-03 周二>
+* DONE 给姜楠定会议室，一个是沟通战略运营部绩效事宜，另一个是第二天姜楠用
+  DEADLINE: <2018-04-03 周二> SCHEDULED: <2018-04-03 周二>
+* DONE 跟忠涛沟通，催华中二区专卖店的经销商名单
+  DEADLINE: <2018-04-02 周一> SCHEDULED: <2018-04-02 周一>
