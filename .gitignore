@@ -2,7 +2,15 @@
 
 *#*
 
+.nv
+
+.renpy
+
+.semx-items
+
 .var
+
+*.old
 
 .gnupg/
 
