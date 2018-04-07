@@ -1,0 +1,45 @@
+2018-04-05, 19:16:51.731 [Debug  ] [main.cpp             main                                98] dbus register wating!
+2018-04-05, 19:16:51.732 [Debug  ] [dbusscreenshotservice.cpp DBusScreenshotService::FullscreenScreenshot 95] DBus screenshot service! Fullscreen screenshot
+2018-04-05, 19:16:51.733 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow QWidgetWindow(0x22ce870, name="QWidgetClassWindow") Qt::WindowType(Desktop) QWindow(0x0)
+2018-04-05, 19:16:51.733 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow QWidgetWindow(0x22ebee0, name="ScreenshotClassWindow") Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 19:16:51.744 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:51.744 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore QWidgetWindow(0x22ebee0, name="ScreenshotClassWindow") Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 19:16:51.744 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:51.744 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:51.745 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.865 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.865 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.865 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.866 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.885 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.887 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:55.888 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:56.067 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2018-04-05, 19:16:56.168 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "common" "default_savepath" QVariant(QString, "")
+2018-04-05, 19:16:56.279 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "arrow" "color_index" QVariant(int, 3)
+2018-04-05, 19:16:56.380 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "arrow" "arrow_linewidth_index" QVariant(int, 1)
+2018-04-05, 19:16:56.491 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "arrow" "straightline_linewidth_index" QVariant(int, 1)
+2018-04-05, 19:16:56.592 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "arrow" "is_straight" QVariant(bool, false)
+2018-04-05, 19:16:56.704 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "oval" "color_index" QVariant(int, 3)
+2018-04-05, 19:16:56.816 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "oval" "linewidth_index" QVariant(int, 1)
+2018-04-05, 19:16:56.927 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "line" "color_index" QVariant(int, 3)
+2018-04-05, 19:16:57.039 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "line" "linewidth_index" QVariant(int, 1)
+2018-04-05, 19:16:57.139 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "rectangle" "color_index" QVariant(int, 3)
+2018-04-05, 19:16:57.242 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "rectangle" "linewidth_index" QVariant(int, 1)
+2018-04-05, 19:16:57.331 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "text" "color_index" QVariant(int, 3)
+2018-04-05, 19:16:57.421 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "text" "fontsize" QVariant(int, 12)
+2018-04-05, 19:16:57.566 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "save" "save_op" QVariant(int, 0)
+2018-04-05, 19:16:57.656 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2018-04-05, 19:16:57.767 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2018-04-05, 19:16:57.879 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2018-04-05, 19:16:57.879 [Debug  ] [configsettings.cpp   ConfigSettings::ConfigSettings      56] Setting file: "/home/aaron/.config/deepin/deepin-screenshot/tools.conf"
+2018-04-05, 19:16:57.886 [Debug  ] [tempfile.cpp         TempFile::TempFile                  55] ssss "/tmp/deepin-screenshot.jkREV3"
+2018-04-05, 19:16:58.408 [Debug  ] [toolbar.cpp          ToolBarWidget::ToolBarWidget        52] ~~~~~~ QSize(276, 28)
+2018-04-05, 19:16:58.556 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2018-04-05, 19:16:58.558 [Warning] [qstackedwidget.cpp   QStackedWidget::setCurrentWidget    245] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2018-04-05, 19:16:58.558 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:58.559 [Debug  ] [screenshot.cpp       Screenshot::eventFilter             132] m_keyboardGrabbed: false
+2018-04-05, 19:16:58.594 [Debug  ] [screenshot.cpp       Screenshot::initUI::lambda          57] release event !!!
+2018-04-05, 19:16:58.595 [Debug  ] [screenshot.cpp       Screenshot::initUI::lambda          60] keyboardGrabbed: true
+2018-04-05, 19:16:58.701 [Debug  ] [configsettings.cpp   ConfigSettings::setValue            83] ConfigSettings: "common" "default_savepath" QVariant(QString, "/home/aaron/Desktop")
+2018-04-05, 19:16:59.271 [Debug  ] [mainwindow.cpp       MainWindow::sendNotify              1376] saveFilePath: "/home/aaron/Desktop/深度截图_20180405191658.png"

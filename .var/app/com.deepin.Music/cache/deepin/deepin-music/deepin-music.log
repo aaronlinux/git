@@ -1,0 +1,93 @@
+2018-04-05, 21:13:41.204 [Debug  ] [dapplication.cpp     Dtk::Widget::DApplicationPrivate::loadTranslator 222] load translate "/usr/share/dtkwidget/translations/dtkwidget2_zh_CN"
+2018-04-05, 21:13:41.216 [Debug  ] [dapplication.cpp     Dtk::Widget::DApplicationPrivate::loadTranslator 222] load translate "/app/share/deepin-music/translations/deepin-music_zh_CN"
+2018-04-05, 21:13:41.278 [Debug  ] [qsettingbackend.cpp  Dtk::Core::QSettingBackend::QSettingBackend 44] create config "/home/aaron/.var/app/com.deepin.Music/config/deepin/deepin-music/config.ini"
+2018-04-05, 21:13:43.824 [Debug  ] [main.cpp             main                                120] TRACE: set theme
+2018-04-05, 21:13:49.365 [Debug  ] [musicapp.cpp         MusicApp::init                      182] TRACE: create MainFrame
+2018-04-05, 21:13:49.366 [Debug  ] [musicapp.cpp         MusicApp::show                      161] restore state: 0 gometry: ""
+2018-04-05, 21:13:49.366 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow QWidgetWindow(0x19841a0, name="MainFrameWindow") Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:49.526 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore deepin_platform_plugin::DFrameWindow(0x1a4a7d0) Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:49.527 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow deepin_platform_plugin::DFrameWindow(0x1a4a7d0) Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:49.560 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore QWidgetWindow(0x19841a0, name="MainFrameWindow") Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:49.560 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow QWidgetWindow(0x1ad4450, name="InfoDialogWindow") Qt::WindowType(Dialog) QWindow(0x0)
+2018-04-05, 21:13:49.562 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore deepin_platform_plugin::DFrameWindow(0x1a87a00) Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:49.562 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow deepin_platform_plugin::DFrameWindow(0x1a87a00) Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:49.728 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore QWidgetWindow(0x1ad4450, name="InfoDialogWindow") Qt::WindowType(Dialog) QWindow(0x0)
+2018-04-05, 21:13:49.860 [Debug  ] [musicapp.cpp         MusicApp::init                      186] TRACE: create Presenter
+2018-04-05, 21:13:49.860 [Debug  ] [musicapp.cpp         MusicApp::init                      196] TRACE: start prepare data
+2018-04-05, 21:13:50.638 [Warning] [mediadatabase.cpp    megrateToVserion_0                  139] sql upgrade with error: 0
+2018-04-05, 21:13:50.638 [Warning] [mediadatabase.cpp    megrateToVserion_0                  142] sql upgrade with error: 1
+2018-04-05, 21:13:50.639 [Warning] [mediadatabase.cpp    megrateToVserion_0                  147] sql upgrade with error: 1
+2018-04-05, 21:13:50.639 [Warning] [mediadatabase.cpp    megrateToVserion_0                  152] sql upgrade with error: 1
+2018-04-05, 21:13:50.639 [Warning] [mediadatabase.cpp    megrateToVserion_0                  157] sql upgrade with error: 1
+2018-04-05, 21:13:50.639 [Warning] [mediadatabase.cpp    megrateToVserion_0                  162] sql upgrade with error: 1
+2018-04-05, 21:13:50.639 [Warning] [mediadatabase.cpp    megrateToVserion_0                  167] sql upgrade with error: 1
+2018-04-05, 21:13:50.640 [Warning] [mediadatabase.cpp    updateDatabaseVersion               120] QSqlError("", "", "")
+2018-04-05, 21:13:50.756 [Warning] [mediadatabase.cpp    megrateToVserion_1                  199] sql upgrade with error: 1
+2018-04-05, 21:13:50.756 [Warning] [mediadatabase.cpp    updateDatabaseVersion               120] QSqlError("19", "Unable to fetch row", "UNIQUE constraint failed: info.uuid")
+2018-04-05, 21:13:50.970 [Debug  ] [presenter.cpp        PresenterPrivate::initBackend       73] TRACE: database init finished
+2018-04-05, 21:13:50.971 [Debug  ] [presenter.cpp        PresenterPrivate::initBackend       76] TRACE: player init finished
+2018-04-05, 21:13:50.971 [Debug  ] [presenter.cpp        PresenterPrivate::initBackend       83] TRACE: library init finished
+2018-04-05, 21:13:51.278 [Debug  ] [presenter.cpp        PresenterPrivate::initBackend       87] TRACE: playlistMgr init finished
+2018-04-05, 21:13:51.278 [Debug  ] [presenter.cpp        Presenter::prepareData              187] TRACE: initBackend finished
+2018-04-05, 21:13:51.278 [Debug  ] [musicapp.cpp         MusicAppPrivate::onDataPrepared     115] TRACE: data prepared
+2018-04-05, 21:13:51.393 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow QWidgetWindow(0x2412cf0, name="QSystemTrayIconSysWindow") Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:51.394 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore QWidgetWindow(0x2412cf0, name="QSystemTrayIconSysWindow") Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:51.395 [Debug  ] [footerwidget.cpp     Footer::onModeChange                664] change play mode to 0
+2018-04-05, 21:13:51.477 [Debug  ] [pluginmanager.cpp    PluginManager::loadPlugins          61] load plugin from: "/app/bin/../lib/deepin-music/plugins"
+2018-04-05, 21:13:51.521 [Debug  ] [pluginmanager.cpp    PluginManager::loadPlugins          64] load plugin so file: "/app/lib/deepin-music/plugins/libnetease-meta-search.so"
+2018-04-05, 21:13:51.782 [Debug  ] [pluginmanager.cpp    PluginManager::loadPlugins          69] load plugin instance: NeteaseMetaSearchEngine(0x7f03f8004160) 0x7f03f8004170
+2018-04-05, 21:13:51.782 [Debug  ] [presenter.cpp        PresenterPrivate::initBackend::lambda 101] load plugins "Netease-Meta-Search"
+2018-04-05, 21:13:51.782 [Debug  ] [presenter.cpp        PresenterPrivate::initBackend::lambda 103] TRACE: lyricService init finished
+2018-04-05, 21:13:51.783 [Debug  ] [metasearchservice.cpp MetaSearchService::init             89] load meta search plugins
+2018-04-05, 21:13:51.783 [Debug  ] [metasearchservice.cpp MetaSearchService::init             93] load meta search engine NeteaseMetaSearchEngine(0x7f03f8004160)
+2018-04-05, 21:13:54.381 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow QWidgetWindow(0x1ad70e0, name="Dtk::Widget::DAbstractDialogClassWindow") Qt::WindowType(Dialog) QWindow(0x0)
+2018-04-05, 21:13:54.382 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore deepin_platform_plugin::DFrameWindow(0x24f4d30) Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:54.382 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformWindow 102] createPlatformWindow deepin_platform_plugin::DFrameWindow(0x24f4d30) Qt::WindowType(Window) QWindow(0x0)
+2018-04-05, 21:13:54.389 [Debug  ] [dplatformintegration.cpp deepin_platform_plugin::DPlatformIntegration::createPlatformBackingStore 162] createPlatformBackingStore QWidgetWindow(0x1ad70e0, name="Dtk::Widget::DAbstractDialogClassWindow") Qt::WindowType(Dialog) QWindow(0x0)
+2018-04-05, 21:13:56.980 [Warning] [qapplication.cpp     QApplicationPrivate::isWindowBlocked 2442] window == 0 passed.
+2018-04-05, 21:22:35.073 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-file-roller-9_TIME4281420
+2018-04-05, 21:22:36.225 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-file-roller-9_TIME4281420
+2018-04-05, 21:24:05.050 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-10_TIME4371384
+2018-04-05, 21:24:06.167 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-10_TIME4371384
+2018-04-05, 21:38:13.699 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-11_TIME5220056
+2018-04-05, 21:38:14.885 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-11_TIME5220056
+2018-04-05, 21:54:05.504 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-12_TIME6171850
+2018-04-05, 21:54:06.305 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-12_TIME6171850
+2018-04-05, 22:35:45.622 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  gksu/|usr|lib|linuxmint|mintDrivers|mintDrivers.py/16705-0-aaron-pc_TIME6314980
+2018-04-05, 22:36:01.341 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  gksu/|usr|lib|linuxmint|mintDrivers|mintDrivers.py/16705-0-aaron-pc_TIME6314980
+2018-04-05, 22:37:03.013 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-graphics-driver-manager-13_TIME6392355
+2018-04-05, 22:37:06.054 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-graphics-driver-manager-13_TIME6392355
+2018-04-05, 22:47:37.806 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-14_TIME7027160
+2018-04-05, 22:47:38.521 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-14_TIME7027160
+2018-04-05, 22:52:54.451 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-dde-file-manager-15_TIME7343805
+2018-04-05, 22:52:57.698 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-dde-file-manager-15_TIME7343805
+2018-04-05, 23:00:29.289 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-16_TIME7798642
+2018-04-05, 23:00:29.588 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-16_TIME7798642
+2018-04-05, 23:10:21.223 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-17_TIME8390580
+2018-04-05, 23:10:21.590 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-17_TIME8390580
+2018-04-05, 23:14:55.984 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-18_TIME8665336
+2018-04-05, 23:14:56.271 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-18_TIME8665336
+2018-04-05, 23:17:55.705 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-19_TIME8845053
+2018-04-05, 23:17:56.197 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-19_TIME8845053
+2018-04-05, 23:18:16.684 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-20_TIME8866040
+2018-04-05, 23:18:16.996 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-20_TIME8866040
+2018-04-05, 23:19:19.404 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-gedit-21_TIME8928758
+2018-04-05, 23:19:20.109 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-gedit-21_TIME8928758
+2018-04-05, 23:21:06.458 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-22_TIME9035811
+2018-04-05, 23:21:06.784 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-22_TIME9035811
+2018-04-05, 23:22:04.248 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-gedit-23_TIME9093595
+2018-04-05, 23:22:04.693 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-gedit-23_TIME9093595
+2018-04-05, 23:23:48.256 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-24_TIME9197606
+2018-04-05, 23:23:48.601 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-24_TIME9197606
+2018-04-05, 23:31:35.358 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-gedit-25_TIME9664709
+2018-04-05, 23:31:35.604 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-gedit-25_TIME9664709
+2018-04-05, 23:36:32.195 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-gedit-26_TIME9961547
+2018-04-05, 23:36:32.430 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-gedit-26_TIME9961547
+2018-04-05, 23:38:20.518 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-27_TIME10069870
+2018-04-05, 23:38:20.836 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-27_TIME10069870
+2018-04-05, 23:45:03.191 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-gedit-28_TIME10472541
+2018-04-05, 23:45:03.420 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-gedit-28_TIME10472541
+2018-04-05, 23:45:55.954 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-terminal-29_TIME10525308
+2018-04-05, 23:45:56.286 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-terminal-29_TIME10525308
+2018-04-05, 23:54:09.367 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  51] startup notification initiated:  startdde-762-aaron-pc-deepin-graphics-driver-manager-30_TIME11018710
+2018-04-05, 23:54:09.767 [Debug  ] [startupnotificationmonitor.cpp monitor_event_func                  59] startup notification completed:  startdde-762-aaron-pc-deepin-graphics-driver-manager-30_TIME11018710
