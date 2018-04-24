@@ -347,5 +347,5 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-04-18 周三> SCHEDULED: <2018-04-18 周三>
 * DONE 给杨总做的ppt，姜楠安排的
   DEADLINE: <2018-04-20 周五> SCHEDULED: <2018-04-19 周四>
-* TODO 给杨总做ppt，姜楠安排的，和郭桐还有金鑫
+* DONE 给杨总做ppt，姜楠安排的，和郭桐还有金鑫
   DEADLINE: <2018-04-20 周五> SCHEDULED: <2018-04-20 周五>
