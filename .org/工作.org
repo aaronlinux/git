@@ -349,3 +349,9 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-04-20 周五> SCHEDULED: <2018-04-19 周四>
 * DONE 给杨总做ppt，姜楠安排的，和郭桐还有金鑫
   DEADLINE: <2018-04-20 周五> SCHEDULED: <2018-04-20 周五>
+* DONE 给贺总做上半年的经营指标预测ppt
+  DEADLINE: <2018-04-25 三> SCHEDULED: <2018-04-24 二>
+* TODO 4轮修改营销公司的业务诊断报告
+  DEADLINE: <2018-04-25 三> SCHEDULED: <2018-04-25 三>
+* DONE 私下与营销公司看财务各项指标
+  DEADLINE: <2018-04-25 三> SCHEDULED: <2018-04-25 三>
