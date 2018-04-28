@@ -351,7 +351,21 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-04-20 周五> SCHEDULED: <2018-04-20 周五>
 * DONE 给贺总做上半年的经营指标预测ppt
   DEADLINE: <2018-04-25 三> SCHEDULED: <2018-04-24 二>
-* TODO 4轮修改营销公司的业务诊断报告
+* DONE 4轮修改营销公司的业务诊断报告
   DEADLINE: <2018-04-25 三> SCHEDULED: <2018-04-25 三>
 * DONE 私下与营销公司看财务各项指标
   DEADLINE: <2018-04-25 三> SCHEDULED: <2018-04-25 三>
+* DONE 跟BI团队碰营销公司环节的报表需求
+  DEADLINE: <2018-04-28 周六> SCHEDULED: <2018-04-27 周五>
+* DONE 编写第三期的专卖店简报并梳理前期编写的招标文件
+  DEADLINE: <2018-04-28 周六> SCHEDULED: <2018-04-28 周六>
+* DONE 给IBM团队看CTR报告和尼尔森报告的样式
+  DEADLINE: <2018-04-28 周六> SCHEDULED: <2018-04-28 周六>
+* DONE 给王彬发一季度运营分析会的汇报材料
+  DEADLINE: <2018-04-27 周五> SCHEDULED: <2018-04-27 周五>
+* DONE 给王彬发TOB和SOW
+  DEADLINE: <2018-04-28 周六> SCHEDULED: <2018-04-27 周五>
+* DONE 参加营销公司的一季度运营分析会的小组讨论
+  SCHEDULED: <2018-04-26 周四>
+* DONE 记录营销公司一季度运营分析会的小组讨论的会议纪要
+  DEADLINE: <2018-04-26 周四> SCHEDULED: <2018-04-26 周四>
