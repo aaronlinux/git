@@ -5,4 +5,8 @@ if
     [ $(uname) == "CYGWIN_NT-10.0" ];then
     export PS1="\[\e[32;1m\]\u@cygwin \W$\[\e[0m\]"
     alias apt-get="apt-cyg"
+elif
+    [ $(uname) == "Linux" ];then    
+    export PS1="\[\e[32;1m\]Liusong@linux \W$\[\e[0m\]"
+    alias apt-get="apt-cyg"
 fi
