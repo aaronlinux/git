@@ -9,4 +9,9 @@ elif
     [ $(uname) == "Linux" ];then    
     export PS1="\[\e[32;1m\]Liusong@linux \W$\[\e[0m\]"
     alias apt-get="apt-cyg"
+elif
+    [ $(uname) == "Darwin" ];then
+    export PS1="\[\e[32;1m\]\u@Mac-Pro-Liusong \W$\[\e[0m\]"
+
+
 fi
