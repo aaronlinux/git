@@ -443,3 +443,137 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-05-28 周一> SCHEDULED: <2018-05-28 周一>
 * DONE 把京东的访谈纪要和首都贸易大学的陈立平的访谈纪要发给各个专业化公司的对接人
   DEADLINE: <2018-05-28 周一> SCHEDULED: <2018-05-28 周一>
+* DONE 更改贵阳会议的参会名单
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 给禹刚打印发票
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 协调屏店公司制作一个宣传页
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 更改贵阳会议的参会名单
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 参加财务报销培训
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 代表部门参会加强内部巡视整改工作
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 整理湖北出差的各种材料
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 协调邵鲲与第三方沟通，把屏店的内容加到手册中
+  DEADLINE: <2018-05-29 周二> SCHEDULED: <2018-05-29 周二>
+* DONE 按照禹刚要求，协调更改屏店介绍页，并协调邵鲲增加到手册中去
+  DEADLINE: <2018-05-30 周三> SCHEDULED: <2018-05-30 周三>
+* DONE 6月7-9日，营销公司经销商大会，会务总控
+  DEADLINE: <2018-06-09 周六> SCHEDULED: <2018-05-31 周四>
+* DONE 战略运营部在经销商大会期间组织的经销商小型会议，介绍京东系统和屏店还有手册
+  DEADLINE: <2018-05-31 周四> SCHEDULED: <2018-05-31 周四>
+* DONE 组织战略反思会
+  DEADLINE: <2018-06-02 周六> SCHEDULED: <2018-06-01 周五>
+* DONE 整理营销公司bu的年度定性考核指标
+  DEADLINE: <2018-06-07 周四> SCHEDULED: <2018-06-05 周二>
+* DONE 微信邀请孙晓丽参与营销公司战略反思会议
+  DEADLINE: <2018-06-06 周三> SCHEDULED: <2018-06-05 周二>
+* DONE 写自有品牌方案
+  DEADLINE: <2018-06-07 周四> SCHEDULED: <2018-06-07 周四>
+* DONE 整理品牌专卖店遴选方案
+  DEADLINE: <2018-06-06 周三> SCHEDULED: <2018-06-05 周二>
+* DONE 战略反思会会议简报
+  DEADLINE: <2018-06-06 周三> SCHEDULED: <2018-06-06 周三>
+* DONE 约谈客户之声
+  DEADLINE: <2018-06-11 周一> SCHEDULED: <2018-06-11 周一>
+* DONE 报名参加品牌与市场调研
+  DEADLINE: <2018-06-28 周四> SCHEDULED: <2018-06-26 周二>
+* DONE 参与包装设计公司招标会议
+  DEADLINE: <2018-06-12 周二> SCHEDULED: <2018-06-11 周一>
+* DONE 整理战略反思会纪要
+  DEADLINE: <2018-06-12 周二> SCHEDULED: <2018-06-11 周一>
+* DONE 制作沃尔玛中国区简介的ppt给总裁
+  DEADLINE: <2018-06-12 周二> SCHEDULED: <2018-06-12 周二>
+* DONE 把资料传递给烟台连展
+  DEADLINE: <2018-06-13 周三> SCHEDULED: <2018-06-12 周二>
+* DONE 跟刘素娇沟通落户的事情
+  DEADLINE: <2018-06-13 周三> SCHEDULED: <2018-06-13 周三>
+* DONE 完善米面油布局图ppt
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-14 周四>
+* DONE 精简战略反思会纪要
+  DEADLINE: <2018-06-14 周四> SCHEDULED: <2018-06-14 周四>
+* DONE 重新写湖北调研的报告
+  DEADLINE: <2018-06-14 周四> SCHEDULED: <2018-06-14 周四>
+* DONE 跟尼尔森团队沟通，铺货率是够能够作为定性考核指标
+  DEADLINE: <2018-06-19 周二> SCHEDULED: <2018-06-14 周四>
+* DONE 从新分配一下，把湖北调研报告重新写一下
+  DEADLINE: <2018-06-20 周三> SCHEDULED: <2018-06-19 周二>
+* DONE 征求各专业化公司信息系统和装修手册的意见
+  DEADLINE: <2018-06-20 周三> SCHEDULED: <2018-06-19 周二>
+* DONE 营销公司上半年总结和下半年任务资料
+  DEADLINE: <2018-06-25 周一> SCHEDULED: <2018-06-19 周二>
+* DONE 韩佳妮自己组织的粮谷的运营分析报告
+  DEADLINE: <2018-06-25 周一> SCHEDULED: <2018-06-22 周五>
+* DONE 专卖店简报第五期
+  DEADLINE: <2018-06-19 周二> SCHEDULED: <2018-06-19 周二>
+* DONE 给韩佳妮品牌使用规范
+  DEADLINE: <2018-06-21 周四> SCHEDULED: <2018-06-20 周三>
+* DONE 参加酒业姚兴涛的研讨si装修手册
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-22 周五>
+* DONE 与第三方公司设计公司见面沟通需求1
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-22 周五>
+* DONE 与第三方公司设计公司见面沟通需求2
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-22 周五>
+* DONE 贺总开会，关于费用的
+  DEADLINE: <2018-06-21 周四> SCHEDULED: <2018-06-21 周四>
+* DONE 重点工作汇报300-500字
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-22 周五>
+* DONE 营销公司半年总结
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-19 周二>
+* DONE 重新整理湖北调研的ppt
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-22 周五>
+* DONE 发起oa简报
+  DEADLINE: <2018-06-22 周五> SCHEDULED: <2018-06-22 周五>
+* DONE 重新过一下遴选会的流程
+  DEADLINE: <2018-06-25 周一> SCHEDULED: <2018-06-25 周一>
+* DONE 核对半年运营分析报告和上半年工作总计与下半年工作规划报告的数据
+  DEADLINE: <2018-06-25 周一> SCHEDULED: <2018-06-25 周一>
+* DONE 陆金鑫的粮谷业务回顾素材收集
+  DEADLINE: <2018-06-26 周二> SCHEDULED: <2018-06-26 周二>
+* DONE 收集遴选会参会人员名单
+  DEADLINE: <2018-06-26 周二> SCHEDULED: <2018-06-26 周二>
+* DONE 从新写上半年工作总结与下半年工作规划
+  DEADLINE: <2018-06-27 周三> SCHEDULED: <2018-06-27 周三>
+* DONE 整理遴选会需要的打印材料
+  DEADLINE: <2018-06-27 周三> SCHEDULED: <2018-06-27 周三>
+* DONE 制作遴选会上需要的背景ppt和各专业化公司的ppt合成一个
+  DEADLINE: <2018-06-29 周五> SCHEDULED: <2018-06-28 周四>
+* DONE 与蒙牛沟通，有一家公司放弃参与遴选
+  DEADLINE: <2018-06-28 周四> SCHEDULED: <2018-06-28 周四>
+* DONE 重新核对各个专业化公司的名单
+  DEADLINE: <2018-06-28 周四> SCHEDULED: <2018-06-28 周四>
+* DONE 两次股改访谈的会议纪要
+  DEADLINE: <2018-06-28 周四> SCHEDULED: <2018-06-28 周四>
+* DONE 姜楠要的品牌业务的股改资料需求
+  DEADLINE: <2018-06-28 周四> SCHEDULED: <2018-06-28 周四>
+* DONE 收集营销公司的业务回顾素材
+  DEADLINE: <2018-06-28 周四> SCHEDULED: <2018-06-28 周四>
+* DONE 跟曹惠沟通新建项目的情况，核对产能
+  DEADLINE: <2018-07-02 周一> SCHEDULED: <2018-07-02 周一>
+* DONE 重新修改粮谷上半年工作总结和下半年工作计划-营销部分的内容
+  DEADLINE: <2018-07-03 周二> SCHEDULED: <2018-07-03 周二>
+* DONE 收集第二批股改资料
+  DEADLINE: <2018-07-03 周二> SCHEDULED: <2018-07-03 周二>
+* DONE 按照办公室要求，重新写上半年工作总结和下半年计划
+  DEADLINE: <2018-07-04 周三> SCHEDULED: <2018-07-04 周三>
+* DONE 整理尼尔森数据
+  DEADLINE: <2018-07-05 周四> SCHEDULED: <2018-07-05 周四>
+* DONE 出一份专卖店的供货方案
+  DEADLINE: <2018-07-06 周五> SCHEDULED: <2018-07-06 周五>
+* DONE 制作专卖店供货方案的ppt
+  DEADLINE: <2018-07-11 周三> SCHEDULED: <2018-07-06 周五>
+* DONE 给集团的施静提供简报的附件
+  DEADLINE: <2018-07-06 周五> SCHEDULED: <2018-07-06 周五>
+* DONE 谢天收集费用台账
+  DEADLINE: <2018-07-06 周五> SCHEDULED: <2018-07-06 周五>
+* DONE 收集专卖店个地方的各个专业化公司的供货联系人名单
+  DEADLINE: <2018-07-11 周三> SCHEDULED: <2018-07-09 周一>
+* DONE 按照半年的捏尔森数据整推测16年全年的尼尔森数据
+  DEADLINE: <2018-07-10 周二> SCHEDULED: <2018-07-10 周二>
+* DONE 按照禹刚的要求，安排试吃的打分，并把反馈结果给到刘工
+  DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
+* DONE 部门会议
+  DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
