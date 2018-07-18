@@ -577,3 +577,27 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
 * DONE 部门会议
   DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
+* DONE 面包品鉴
+  DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
+* DONE 给人力发面包品鉴的结果给综合食品的刘工
+  DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
+* DONE 根据尼尔森16年半年、17年半年、17年全年的数字推算2016年全年的数据
+  DEADLINE: <2018-07-09 周一> SCHEDULED: <2018-07-09 周一>
+* DONE 让谢天收集费用台账
+  DEADLINE: <2018-07-10 周二> SCHEDULED: <2018-07-09 周一>
+* DONE 制作十三五战略ppt营销公司的部分
+  DEADLINE: <2018-07-11 周三> SCHEDULED: <2018-07-10 周二>
+* DONE 答复贺总关于十三五汇报的ppt营销公司部分的数据口径问题
+  DEADLINE: <2018-07-10 周二> SCHEDULED: <2018-07-10 周二>
+* TODO 负责部门的保密工作
+  DEADLINE: <2018-08-01 周三> SCHEDULED: <2018-07-10 周二>
+* DONE 整理专卖店上会汇报ppt
+  DEADLINE: <2018-07-11 周三> SCHEDULED: <2018-07-10 周二>
+* DONE 收集第二批股改资料
+  DEADLINE: <2018-07-17 周二> SCHEDULED: <2018-07-12 周四>
+* DONE 答复京东电商平台物流方案
+  DEADLINE: <2018-07-16 周一> SCHEDULED: <2018-07-16 周一>
+* DONE 给禹刚发物流的方案，加上我买网的操作手册，加上供货名单
+  DEADLINE: <2018-07-17 周二> SCHEDULED: <2018-07-16 周一>
+* DONE 杨总小会议室过ppt，三个上会材料
+  DEADLINE: <2018-07-16 周一> SCHEDULED: <2018-07-16 周一>
