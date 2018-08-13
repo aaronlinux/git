@@ -51,6 +51,8 @@
 (setq frame-title-format "%b@liusong")
 ;;显示时间。
 (display-time-mode t)
+;;全局语法高亮
+(global-hl-line-mode t)
 ;;设置窗体透明度。
 (global-set-key [(f2)] 'loop-alpha)  
 (setq alpha-list '((100 100) (95 65) (90 60) (85 55) (80 50) (75 45) (70 40) (65 35)))  
@@ -65,6 +67,7 @@
     )  
   )
 (set-frame-parameter (selected-frame)  'alpha (list 95 45))
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;按24小时的格式显示时间;;执行效率太低，所以禁用了。
 (setq-default display-time-24hr-format 1)
@@ -186,10 +189,6 @@
  '(package-selected-packages
    (quote
     (xwidgete windresize window-numbering w3m undo-tree switch-window solarized-theme smart-mode-line powerline paperless num3-mode monokai-theme markdown-mode counsel company))))
-
-
-
-
 ;; 编码设置 begin
 (set-language-environment 'Chinese-GB)
 ;; default-buffer-file-coding-system变量在emacs23.2之后已被废弃，使用buffer-file-coding-system代替
@@ -215,8 +214,6 @@
 ;; 这一句的话，新建文件以utf-8编码，行末结束符平台相关
 ;(prefer-coding-system 'utf-8-dos)
 ;(prefer-coding-system 'utf-8-unix)
-
-
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
