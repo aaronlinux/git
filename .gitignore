@@ -243,3 +243,4 @@ Public
 .gitignore
 
 .bashrc
+.python_history
