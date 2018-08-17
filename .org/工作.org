@@ -589,7 +589,7 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-07-11 周三> SCHEDULED: <2018-07-10 周二>
 * DONE 答复贺总关于十三五汇报的ppt营销公司部分的数据口径问题
   DEADLINE: <2018-07-10 周二> SCHEDULED: <2018-07-10 周二>
-* TODO 负责部门的保密工作
+* DONE 负责部门的保密工作
   DEADLINE: <2018-08-01 周三> SCHEDULED: <2018-07-10 周二>
 * DONE 整理专卖店上会汇报ppt
   DEADLINE: <2018-07-11 周三> SCHEDULED: <2018-07-10 周二>
@@ -601,3 +601,99 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-07-17 周二> SCHEDULED: <2018-07-16 周一>
 * DONE 杨总小会议室过ppt，三个上会材料
   DEADLINE: <2018-07-16 周一> SCHEDULED: <2018-07-16 周一>
+* DONE 收集各专业化公司的起订量要求
+  DEADLINE: <2018-07-16 周一> SCHEDULED: <2018-07-16 周一>
+* DONE 做运营分析会杨总的ppt 营销公司的部分
+  DEADLINE: <2018-07-23 周一> SCHEDULED: <2018-07-17 周二>
+* DONE 给贺总做价格管控的分析表格
+  DEADLINE: <2018-07-27 周五> SCHEDULED: <2018-07-19 周四>
+* DONE 负责大米自有品牌的业务的ppt、逐字稿、presentation
+  DEADLINE: <2018-08-04 周六> SCHEDULED: <2018-07-19 周四>
+* DONE 答复京东供货需求
+  DEADLINE: <2018-07-31 周二> SCHEDULED: <2018-07-20 周五>
+* DONE 收集一季度运营分析会重点事项完成情况的文字材料
+  DEADLINE: <2018-07-24 周二> SCHEDULED: <2018-07-20 周五>
+* DONE 答复京东第三次供货需求
+  DEADLINE: <2018-07-31 周二> SCHEDULED: <2018-07-24 周二>
+* DONE 制作面粉和营销公司对接的情况的ppt
+  DEADLINE: <2018-07-25 周三> SCHEDULED: <2018-07-24 周二>
+* DONE 收集京东需求的条码信息补充
+  DEADLINE: <2018-08-01 周三> SCHEDULED: <2018-07-24 周二>
+* DONE 走访北京艾瑞曼专卖店运营商
+  DEADLINE: <2018-07-25 周三> SCHEDULED: <2018-07-24 周二>
+* DONE 跟营销公司要预算-姜楠说是给总裁撰写半年工作总结需要的
+  DEADLINE: <2018-07-26 周四> SCHEDULED: <2018-07-25 周三>
+* DONE 收集保密相关的文件
+  DEADLINE: <2018-07-25 周三> SCHEDULED: <2018-07-25 周三>
+* DONE 补充面粉和营销公司对接的ppt材料里大米对营销公司的支持情况
+  DEADLINE: <2018-07-27 周五> SCHEDULED: <2018-07-26 周四>
+* DONE 参加面条物料招标工作
+  DEADLINE: <2018-08-01 周三> SCHEDULED: <2018-08-01 周三>
+* DONE 与大米进行第二次产销沟通
+  DEADLINE: <2018-08-03 周五> SCHEDULED: <2018-08-03 周五>
+* DONE 反馈专卖店的具体信息和对接关系
+  DEADLINE: <2018-08-04 周六> SCHEDULED: <2018-07-30 周一>
+* DONE 按照京东的需求，统计各专业化公司的就近仓库的地址
+  DEADLINE: <2018-08-04 周六> SCHEDULED: <2018-07-30 周一>
+* DONE 给营销支持部的王坤提供做sap培训的人选
+  DEADLINE: <2018-07-31 周二> SCHEDULED: <2018-07-31 周二>
+* DONE 贺总交办的中央巡视反馈意见整改工作
+  DEADLINE: <2018-08-02 周四> SCHEDULED: <2018-08-02 周四>
+* DONE 给禹总汇报中粮专卖店工作进展汇报
+  DEADLINE: <2018-07-17 周二> SCHEDULED: <2018-07-17 周二>
+* DONE 给姜楠提供第二批股改资料的需求
+  DEADLINE: <2018-07-17 周二> SCHEDULED: <2018-07-17 周二>
+* DONE 反馈京东关于各个产品的外箱尺寸的需求
+  DEADLINE: <2018-08-09 周四> SCHEDULED: <2018-08-02 周四>
+* DONE 催营销公司的胡王君的报告
+  DEADLINE: <2018-08-04 周六> SCHEDULED: <2018-08-03 周五>
+* DONE 反馈禹刚总中粮到家专卖店简报第6期
+  DEADLINE: <2018-08-01 周三> SCHEDULED: <2018-08-01 周三>
+* DONE 反馈半年运营分析会上的ppt和逐字稿，并修改
+  DEADLINE: <2018-08-02 周四> SCHEDULED: <2018-08-02 周四>
+* DONE 咨询王亚锟、曹懂，两家专卖店的运营周转情况
+  DEADLINE: <2018-08-09 周四> SCHEDULED: <2018-08-02 周四>
+* DONE 给姜楠和佳妮反馈供应链的方案
+  DEADLINE: <2018-08-06 周一> SCHEDULED: <2018-08-06 周一>
+* DONE 完成禹刚留的作业，什么产业分析
+  DEADLINE: <2018-08-09 周四> SCHEDULED: <2018-08-09 周四>
+* DONE 咨询茶叶和油脂和蒙牛的供应链的问题，还有，仓库地址
+  DEADLINE: <2018-08-13 周一> SCHEDULED: <2018-08-10 周五>
+* DONE 前往京东集团参加什么高层会议，关于战略合作的
+  DEADLINE: <2018-08-09 周四> SCHEDULED: <2018-08-09 周四>
+* DONE 反馈禹刚与京东谈的几件事情
+  DEADLINE: <2018-08-10 周五> SCHEDULED: <2018-08-10 周五>
+* DONE 反馈京东团队蒙牛、酒业、茶叶的地址情况
+  DEADLINE: <2018-08-16 周四> SCHEDULED: <2018-08-16 周四>
+* DONE 去成都出差，走访小面市场，粮食档口，参观学习面粉加工流程
+  DEADLINE: <2018-08-15 周三> SCHEDULED: <2018-08-13 周一>
+* DONE 对接第三方公司，设计方案
+  DEADLINE: <2018-08-15 周三> SCHEDULED: <2018-08-15 周三>
+* DONE 对接天津环荣经销商关于专卖店的事儿
+  DEADLINE: <2018-08-15 周三> SCHEDULED: <2018-08-15 周三>
+* DONE 回复池潇运营管理部谢天的名单
+  DEADLINE: <2018-08-16 周四> SCHEDULED: <2018-08-16 周四>
+* DONE 建立微信群，并统计各个经销商的入群情况
+  DEADLINE: <2018-08-04 周六> SCHEDULED: <2018-08-04 周六>
+* DONE 给王德伟问有没有做社保减员
+  DEADLINE: <2018-08-16 周四> SCHEDULED: <2018-08-16 周四>
+* DONE 在专卖店群里沟通，供应链的方案，给大家做个通知
+  DEADLINE: <2018-08-16 周四> SCHEDULED: <2018-08-16 周四>
+* DONE 写一个由于一致性，所以不再另行组织招标会的请示
+  DEADLINE: <2018-08-10 周五> SCHEDULED: <2018-08-10 周五>
+* DONE 对接第三方公司，过来过一下他们的设计方案，领导不在，谈一下招标的流程
+  DEADLINE: <2018-08-10 周五> SCHEDULED: <2018-08-10 周五>
+* DONE 对接山萃产品的销售负责人，刘福山
+  DEADLINE: <2018-08-10 周五> SCHEDULED: <2018-08-10 周五>
+* DONE 咨询周联、蒋忆纯招标的事儿，流程怎么弄
+  DEADLINE: <2018-08-08 周三> SCHEDULED: <2018-08-08 周三>
+* DONE 答复杨莎大区费用的事儿
+  DEADLINE: <2018-08-06 周一> SCHEDULED: <2018-08-06 周一>
+* DONE 对接人事行政部，半年运营分析开会车到了，通知一声
+  DEADLINE: <2018-08-04 周六> SCHEDULED: <2018-08-04 周六>
+* DONE 协调肉食各个大区的领导，提供就近仓库地址
+  DEADLINE: <2018-08-03 周五> SCHEDULED: <2018-08-03 周五>
+* DONE 答复张旭东鞍钢业务归属的事情
+  DEADLINE: <2018-06-05 周二> SCHEDULED: <2018-06-04 周一>
+* DONE 参加粮谷保密会议
+  DEADLINE: <2018-08-17 周五> SCHEDULED: <2018-08-16 周四>
