@@ -697,3 +697,11 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-06-05 周二> SCHEDULED: <2018-06-04 周一>
 * DONE 参加粮谷保密会议
   DEADLINE: <2018-08-17 周五> SCHEDULED: <2018-08-16 周四>
+* DONE 贴发票，上报销oa
+  DEADLINE: <2018-08-17 周五> SCHEDULED: <2018-08-17 周五>
+* DONE 索要保密培训的ppt材料
+  DEADLINE: <2018-08-17 周五> SCHEDULED: <2018-08-17 周五>
+* DONE 跟京东李敏沟通在系统中加入中粮的元素
+  DEADLINE: <2018-08-17 周五> SCHEDULED: <2018-08-17 周五>
+* DONE 整理保密文件，看看头还需要准备什么材料
+  DEADLINE: <2018-08-20 周一> SCHEDULED: <2018-08-20 周一>
