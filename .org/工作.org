@@ -713,3 +713,21 @@ DEADLINE: <2018-02-27 周二> SCHEDULED: <2018-02-27 周二>
   DEADLINE: <2018-08-21 周二> SCHEDULED: <2018-08-21 周二>
 * DONE 写专卖店的周报
   DEADLINE: <2018-08-21 周二> SCHEDULED: <2018-08-21 周二>
+* DONE 给青灵公司提供专卖店面积的表格
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* DONE 开会部门会议，讲之前禹刚留的作业，产业分析
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* DONE 给胡来春找面粉和啤麦的半年运营分析会上的报告
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* DONE 跟中粮茶叶的郭道斌联系下一步的工作安排
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* DONE 完成保密培训的照片
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* DONE 给谢天过一下考核指标
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* DONE 给郝辰过oa
+  DEADLINE: <2018-08-22 周三> SCHEDULED: <2018-08-22 周三>
+* TODO 看一看京东小程序注册的事情
+  DEADLINE: <2018-08-27 周一> SCHEDULED: <2018-08-27 周一>
+* TODO 给第三方设计公司确定测量规划，如果需要，我给大家发邮件要求他们配合。
+  DEADLINE: <2018-08-27 周一> SCHEDULED: <2018-08-27 周一>
